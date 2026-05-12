@@ -26,6 +26,8 @@ java_programs/
 │── Main.java        # Main Java Program File
 │── README.md        # Project documentation
 
+Java program.java 'java' is exention to save the java program or file
+
 ▶️ How to Run the Program
 1. Install Java JDK on your system.
 2. Download or clone this repository.
