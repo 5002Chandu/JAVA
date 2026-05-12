@@ -1,7 +1,8 @@
 # JAVA..
 Java Programs & Mini Projects
 A simple collection of Java programs and mini projects created for learning and practice. This repository includes basic concepts, object-oriented programming examples, and small projects built using Java.
-📌 Contents
+
+📌 Contents:
 Basic Java Programs
 Loops & Conditional Statements
 Arrays & Strings
@@ -9,7 +10,8 @@ Functions & Recursion
 Object-Oriented Programming (OOP)
 File Handling
 Mini Projects
-🚀 Technologies Used
+
+🚀 Technologies Used:
 Java
 VS Code / IntelliJ IDEA
 Git & GitHub
@@ -19,6 +21,7 @@ Student Management System
 Number Guessing Game
 Banking System
 Library Management System
+
 ▶️ How to Run
 Clone the repository:
 Bash
@@ -30,7 +33,9 @@ javac FileName.java
 Run the program:
 Bash
 java FileName
-🎯 Purpose
+
+🎯 Purpose:
 This repository is created to improve Java programming skills and practice problem-solving through programs and mini projects.( For College purpose)
-👩‍💻 Author
+
+👩‍💻 Author:
 Created by Chandana Manjunath 
